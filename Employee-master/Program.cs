@@ -1,10 +1,4 @@
-﻿/* EMPLOYEE APPLICATION
-   DESCRIPTION:EMPLOYEE DETAILS
-   DATE:28/10/2021
-   AUTHOR:BRINDHA M
-   MODIFIED ON: 18/11/2021,TIME: 
-   REVIEWED BY:AKSHAYA
-*/
+
 using System.Text.RegularExpressions;
 using System.Collections.Generic;
 namespace EmployeeManagementSystem;
